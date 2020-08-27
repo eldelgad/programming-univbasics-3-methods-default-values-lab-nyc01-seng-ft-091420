@@ -8,9 +8,6 @@ def meal_choice(veg1, veg2, protein = "tofu")
       
   if meal_choice = ["carrots", "string beans", "lentils"]
     return "A plate of #{protein} with #{veg1} and #{veg2}."
-    
-  elsif meal_choice = [] 
-    return "A plate of #{protein} with #{veg1} and #{veg2}."
   end
   
 end
